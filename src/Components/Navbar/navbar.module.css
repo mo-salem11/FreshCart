@@ -1,0 +1,10 @@
+
+.navbar_bottom{
+    position:fixed;
+    left:0;
+    bottom:0;
+    z-index: 444444;
+    background-color: #F8F9FA;
+    width:100%;
+}
+
